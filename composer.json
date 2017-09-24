@@ -1,0 +1,13 @@
+{
+    "name": "lfelipeeb/t-agenda",
+    "description": "Projeto de agenda do treinamento Web",
+    "authors": [
+        {
+            "name": "Luiz Felipe Evaristo",
+            "email": "lfelipeeb@gmail.com"
+        }
+    ],
+    "require": {
+        "robmorgan/phinx": "^0.9.1"
+    }
+}
